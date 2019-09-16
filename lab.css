@@ -120,7 +120,7 @@ ul {
     box-shadow: 0px 4px 7px rgba(0,0,0,0.15);
 }
 .posts-more:hover{
-    border: 1px solid #0062e6;
+    border: 1px solid #0062e6; 
     background-color: #007bff;
 }
 
